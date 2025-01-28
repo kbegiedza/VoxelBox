@@ -1,0 +1,4 @@
+GET {{VoxelBox.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
